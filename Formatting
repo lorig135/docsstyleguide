@@ -1,0 +1,12 @@
+Attributes, classes, 
+Features: Unless the feature is a proper name or it is initial-capped in the UI, use lowercase for the name of the feature and the type of feature. Ex: the notifications service
+File paths: Use an initial / only for files and directories that start with the top-level root directory (/tmp, /usr/bin, or /path/to). 
+When specifying a subdirectory, include a trailing /.
+Headings
+Instructions or steps, sequential
+Keyboard commands
+New or emphasized terms
+Numbers
+Titles
+Trademarks
+URLs
