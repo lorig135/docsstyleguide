@@ -1,20 +1,63 @@
-Here is a suggested list of verbs to use when writing about user actions and interactions with the product or outside of the product. 
-Access
-Add
+Following are examples of how we write about user actions. Words withmultiple meanings such as close, are marked with an asterisk.
+When you use a word with multiple meanings in your writing, decidewhich meaning of the word you will use, and use that meaning
+consistently throughout your writing. For example, if you use the word "clear" as a verb (Ex. Clear your browser cache), then always use clear
+as a verb. Do not use it as an adjective. Instead, find a synonym, and use it to avoid confusion. Here is a list of verbs we use to describe user actions and interactions with the product or outside of the product. As this list is long, I'd like your suggestions for which ones we should use.     
+
+Access*: Noun: The Servlet layer provides RESTful HTTP access to the managed objects and service. Verb: Access managed objects over the REST
+interface
+Activate: Activate StartTLS on the current LDAP port.
+Add: Add logos to the login page.
+Administer: Administer the server as the directory manager. 
 Appears: Does an element appear or display?
-Back up
-Choose
-Click
-Configure
-Delete
-Display
-Enter
-Go to
-Install
-Open
-Remove
-Save
-Scroll
-Set
-Sign in/Sign out
-Uninstall
+Back up: Remember to back up your files. Noun: Create a backup of your files. 
+Browse: Browse to a resource that your web agent protects.
+Check*: Check the connector configuration. Noun: OCSP provides an online service that handles the revocation check for a specific
+certificate.
+Choose: Choose from the list of link qualifiers.
+Clean: Clean your Mac. Adjective: My Mac is clean.
+Clear: Clear your browser cache after the migration. Adjective: This code is clear.
+Click: Click the link.
+Clock: Clock the differences between replicas. Noun: Keep your server clock synchronized.
+Close: Close the window. Adjective: That was a close call. Noun: Save your work at close of day.
+Configure: Configure AM to grant capabilities to another user.
+Copy*: Copy the configuration. Noun: Make a copy of the configuration.
+Control: Follow these insturctions to control access to the data.
+Customize*: You can customize the deployment. Adjective: Unless you are working with a customized deployment, do not modify the default framework
+configuration.
+Cut*: Cut the connection. Noun: 
+Delete: Delete the files. 
+Deselect: Deselect the radio button.
+Display: The website displays.
+Double-click: Double-click the setup file to launch the installation wizard.
+Drag: Drag the block into a drop point in a logical block. Note that move is an accessibility friendly synonym.
+Drop: The server will drop the operation in progress. 
+Enter: Enter the information at the prompt.
+Expand: Expand the configuration item.
+Find*: Find the installation. Adjective: This error is a find. 
+Format*: Format the command output. Noun: The command reports the differences between two files in this format.
+Go to: Go to the URL.
+Install*: Install the software. Noun: Run the install.
+Locate: Locate the directory. Note: Find is preferrable to locate.
+Move: A modify DN request is used to move a directory entry. Noun: Our clients are happier since we made the move to AM.
+Navigate: Navigate to the file. Note: Go to is preferable (plain language).
+Note*: Note the differences between the versions. Noun: Did you read my note about the upgrade?
+Open*: Open the file. Adj: The connection is open. Noun: Let's bring these bugs out into the open.
+Paste*: Pate the value into a text file. Noun: This food tastes like paste.
+Point*: Point your browser to the URL. Noun: When is the point of this step?
+Press*: Press these keys to stop the program.
+Program: Program the app. Noun: ^^
+Release*: Select the keys, then release them. Noun: Here is the new release of the product.
+Remove: Remove the files. 
+Resize: Resize the window.
+Run: Run the applicaion. Adjective: The software is running. 
+Save: Save your changes.
+Scroll*: Scroll to the section on authentication. Noun: That version is as out of date as a scroll.
+Select*: Select the menu. Adjective: A select group of files.
+Set: Set the controls. 
+Sign in/Sign out*: Sign in to the product. Noun: Locate the sign in text field. 
+Size*: Size the window. Noun: The file is a large size.
+Start: Start the program. Noun: The program worked at its first start.
+Supply*: Supply the information. Noun: We have a supply of files.
+Support*: These images support the text. Noun: Follow the instructions for support.
+Try*: Try to commit the changes. Noun: Give the installation another try.
+Uninstall: Uninstall the application. Noun: Perform an uninstall.
