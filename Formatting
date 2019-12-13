@@ -1,4 +1,4 @@
-Following are guidelines for formatting our docs
+#Formatting
 
 Attributes, classes, and other Java- related terms
 Initial cap or lowercase the term as appropriate and lowercase the type. Ex.: the className attribute
