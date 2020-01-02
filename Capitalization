@@ -4,8 +4,7 @@
 Initial cap as appropriate. Ex.: LDAP, ID
 
 ## Adverbs	
-Initial cap adverbs with four or more letters in headings.
-
+Initial cap adverbs with four or more letters in if they appear in headings. Ex.: simply, very. 
 ## Attributes, classes, commands, literals, subclasses, and other Java-related terms	
 Use the appropriate case and the <literal> tag with the name of the term, lowercase the type of term. 
 Ex.: className attribute, the curl command
