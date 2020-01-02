@@ -100,112 +100,112 @@ Expand the configuration item.
 - Noun: The command reports the differences between two files in this format.
 
 ## Go to: 
-Go to the URL.
+Go to the URL. Use *go to* instead of browse or navigate.
 
 ## Highlight
-Use highlight to describe the action of using a highlighter tool that uses color to emphasize a text selection in a program.
-Ex: Highlight the range of cells to copy.
+Use highlight to describe the action of using color to emphasize a text selection in a program. Ex: Highlight the range of cells to copy.
 
 ## Install
 - Verb: Install the software. 
 - Noun: Run the install program.
 
 ## Is + verb
+The ForgeRock SDKs Beta release *is compatible with* the following operating system versions.
 
 ## Locate
-Locate the directory. Note: Find is preferrable to locate.
+Locate the directory. Note: *Find* is preferrable to *locate*.
 
 ## Log in /Log out 
-Log in to the website. 
-Log out of the 
+- Log in to the website. 
+- Log out of the program.
 
-Manage
-Manage the deployment. Use as a synonym for *administer*.
+## Manage
+Manage the server as Directory Manager. Use *manage* as a synonym for *administer*.
 
-Move 
-A modify DN request is used to move a directory entry. 
-Noun: Our employees are happier since we made the move to AM.
+## Move* 
+- Verb: A modify DN request is used to move a directory entry. 
+- Noun: Our employees are happier since we made the move to AM.
 
-Navigate
-Navigate to the file. Note: Go to is preferable (plain language).
+## Navigate
+Navigate to the file. Note: *Go to* is preferable to *navigate*.
 
-Note
-Verb: Note the differences between the versions. 
-Noun: Did you read my note about the upgrade?
+## Note*
+- Verb: Note the differences between the versions. 
+- Noun: Did you read my note about the upgrade?
 
-Open* 
-VerbL Open the file. 
-Adj: The connection is open. 
-Noun: Let's bring these bugs out into the open.
+## Open* 
+- Verb: Open the file. 
+- Adjective: The connection is open. 
+- Noun: Let's bring these bugs out into the open.
 
-Paste*
-Verb: Paste the value into a text file. 
-Noun: This food tastes like paste.
+## Paste*
+- Verb: Paste the value into a text file. 
+- Noun: This food tastes like paste.
 
-Point* 
-Verb:Point your browser to the URL. 
-Noun: When is the point of this step?
+## Point* 
+- Verb:Point your browser to the URL. 
+- Noun: When is the point of this step?
 
-Press*
+## Press*
 Press these keys to stop the program.
 
-Program 
-Verb: Program the app. 
-Noun: How do I stop the program?
+## Program 
+- Verb: Program the app. 
+- Noun: How do I stop the program?
 
-Release 
-Verb: Select the keys, then release them. 
-Noun: Here is the new release of the product.
+## Release* 
+- Verb: Select the keys, then release them. 
+- Noun: Here is the new release of the product.
 
-Remove
+## Remove
 Remove the files. 
 
-Resize
+## Resize
 Resize the window.
 
 Run
 Run the applicaion. 
 Adjective: The software is running. 
 
-Save*
-Save your changes.
-Adjective: 
+## Save*
+- Verb: Save your changes.
+- Adjective: Your changes have been saved.
 
-Scroll* 
-Scroll to the section on authentication. 
-Noun: That version is as out of date as a scroll.
+## Scroll* 
+- Verb: Scroll to the section on authentication. 
+- Noun: That version is as out of date as a scroll.
 
-Select* 
+## Select* 
 Verb: Select the menu. 
 Adjective: A select group of files.
 
-Set
+## Set
 Set the controls. 
 
-Sign in/Sign out* 
-Sign in to the product. 
-Noun: Locate the sign in text field. 
+## Sign in/Sign out* 
+- Verb: Sign out of the product. 
+- Noun: Locate the sign in text box. 
 
-Size*
-Verb: Size the window. 
-Noun: The file is a large size.
+## Size*
+- Verb: Size the window. 
+- Noun: The file is a large size.
 
-Start* 
-Verb: Start the program. 
-Noun: The program worked at its first start.
+## Start* 
+- Verb: Start the program. 
+- Noun: The program worked at its first start.
 
-Supply*
-Verb:Supply the information. 
-Noun: We have a supply of files.
+## Supply*
+- Verb:Supply the information. 
+- Noun: We have a supply of files.
 
-Support*
-Verb: These images support the text. 
-Noun: Call this number for support.
+## Support*
+- Verb: These images support the text. 
+- Noun: Call this number for support.
 
-Try* 
-Verb: Try to commit the changes. 
-Noun: Give the installation another try.
+## Try* 
+- Verb: Try to commit the changes. 
+- Noun: Give the installation another try.
 
-Uninstall* 
-Verb: Uninstall the application. 
-Noun: Perform an uninstall of the software.
+## Uninstall* 
+- Verb: Uninstall the application. 
+- Noun: Perform an uninstall of the software.
