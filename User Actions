@@ -1,121 +1,126 @@
+# User Actions
 Following are examples of how to describe how the user interacts with the product. Words with multiple meanings such as close, are marked with an asterisk.
-When you use a word with multiple meanings in your writing, decidewhich meaning of the word you will use, and use that meaning
+When you use a word with multiple meanings in your writing, decide which meaning of the word you will use, and use that meaning
 consistently throughout your writing. For example, if you use the word "clear" as a verb (Ex. Clear your browser cache), then always use clear
 as a verb. Do not use it as an adjective. Instead, find a synonym, and use it to avoid confusion. Here is a list of verbs we use to describe user actions and interactions with the product or outside of the product. As this list is long, I'd like your suggestions for which ones we should use.     
 
-Access*
-Noun: The Servlet layer provides RESTful HTTP access to the managed objects and service. 
-Verb: Access managed objects over the REST
-interface
+## Access*
+- Noun: The Servlet layer provides RESTful HTTP access to the managed objects and service. 
+- Verb: Access managed objects over the RESTinterface
 
-Activate
+## Activate
 Activate StartTLS on the current LDAP port.
 
-Add
+## Add
 Add logos to the login page.
 
-Administer
-Administer the server as the directory manager. 
-
-Appears
+## Appears
 Does an element appear or display?
 
-Back up
+## Back up
 Remember to back up your files. Noun: Create a backup of your files. 
 
-Browsse
-Browse to a resource that your web agent protects.
+## Check*
+- Verb: Check the connector configuration. 
+- Noun: OCSP provides an online service that handles the revocation check for a specific certificate.
 
-Check*
-Verb: Check the connector configuration. 
-Noun: OCSP provides an online service that handles the revocation check for a specific
-certificate.
-
-Choose
+## Choose
 Choose from the list of link qualifiers.
 
-Clean
-Verb: Clean your Mac. 
-Adjective: My Mac is clean.
+## Clean*
+- Verb: Clean your Mac. 
+- Adjective: My Mac is clean.
 
-Clear
-Verb: Clear your browser cache after the migration. 
-Adjective: This code is clear.
+## Clear*
+- Verb: Clear your browser cache after the migration. 
+- Adjective: This code is clear.
 
-Click
+## Click
 Click the link.
 
-Clock
-Verb: Clock the differences between replicas. 
-Noun: Keep your server clock synchronized.
+## Clock*
+- Verb: Clock the differences between replicas. 
+- Noun: Keep your server clock synchronized.
 
-Close
-Verb: Close the window. 
-Adjective: That was a close call.
-Noun: Save your work at close of day.
+## Close*
+- Verb: Close the window. 
+- Adjective: That was a close call.
+- Noun: Save your work at close of day.
 
-Configure
+## Configure
 Configure AM to grant capabilities to another user.
 
-Copy
-Verb: Copy the configuration. 
-Noun: Make a copy of the configuration.
+## Copy*
+- Verb: Copy the configuration. 
+- Noun: Make a copy of the configuration.
 
-Control*
-Verb: Follow these insturctions to control access to the data.
-Noun: Select the Control text box. 
+## Control*
+- Verb: Follow these insturctions to control access to the data.
+- Noun: Select the Control text box. 
 
-Customize*
-You can customize the deployment. 
-Adjective: Unless you are working with a customized deployment, do not modify the default framework configuration.
+## Customize*
+- Verb: Customize the deployment. 
+- Adjective: Unless you are working with a customized deployment, do not modify the default framework configuration.
 
-Cut*
-Cut the connection. 
-Adjective: The connection is cut.
+## Cut*
+- Cut the connection. 
+- Adjective: The connection is cut.
 
-Delete
+## Delete
 Delete the files. 
 
-Deselect
+## Deselect
 Deselect the radio button.
 
-Display
+## Display
 Display the answers.
 
-Double-click
+## Double-click
 Double-click the setup file to launch the installation wizard.
 
-Drag* 
-Verb: Drag the block into a drop point in a logical block. Note that move is an accessibility friendly synonym.
-Adjective: It's a drag when the server crashes.
+## Drag* 
+- Verb: Drag the block into a drop point in a logical block. Note that move is an accessibility friendly synonym.
+- Adjective: It's a drag when the server crashes.
 
-Drop
+## Drop
 The server will drop the operation in progress.
 
-Enter
+## Enter
 Enter the information at the prompt.
 
-Expand
+## Expand
 Expand the configuration item.
 
-Find* 
-Find the installation. 
-Adjective: This error is a find. 
+## Find* 
+- Verb: Find the installation. 
+- Adjective: This error is a find. 
 
-Format* 
-Format the command output. 
-Noun: The command reports the differences between two files in this format.
-Go to: 
+## Format* 
+- Verb:Format the command output. 
+- Noun: The command reports the differences between two files in this format.
+
+## Go to: 
 Go to the URL.
 
-Install*
-Verb: Install the software. 
-Noun: Run the install.
+## Highlight
+Use highlight to describe the action of using a highlighter tool that uses color to emphasize a text selection in a program.
+Ex: Highlight the range of cells to copy.
 
-Locate
+## Install
+- Verb: Install the software. 
+- Noun: Run the install program.
+
+## Is + verb
+
+## Locate
 Locate the directory. Note: Find is preferrable to locate.
 
-Log in /Log out 
+## Log in /Log out 
+Log in to the website. 
+Log out of the 
+
+Manage
+Manage the deployment. Use as a synonym for *administer*.
 
 Move 
 A modify DN request is used to move a directory entry. 
