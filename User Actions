@@ -115,7 +115,7 @@ The ForgeRock SDKs Beta release *is compatible with* the following operating sys
 ## Locate
 Locate the directory. Note: *Find* is preferrable to *locate*.
 
-## Log in /Log out 
+## Log in /Log out  
 - Log in to the website. 
 - Log out of the program.
 
@@ -153,6 +153,9 @@ Press these keys to stop the program.
 - Verb: Program the app. 
 - Noun: How do I stop the program?
 
+## Provide
+Use instead of *support*. Ex: AM provides OAuth 2.0, passwordless, and 2-Factor authentication functionality.
+
 ## Release* 
 - Verb: Select the keys, then release them. 
 - Noun: Here is the new release of the product.
@@ -164,8 +167,8 @@ Remove the files.
 Resize the window.
 
 Run
-Run the applicaion. 
-Adjective: The software is running. 
+- Verb: Run the application. 
+- Adjective: The software is running. 
 
 ## Save*
 - Verb: Save your changes.
@@ -199,8 +202,10 @@ Set the controls.
 - Noun: We have a supply of files.
 
 ## Support*
-- Verb: These images support the text. 
-- Noun: Call this number for support.
+- Do not use as a verb; use as a noun or an adjective.  
+- These examples refer to Customer Support:
+    - Noun: ForgeRock provides commercial support for the ForgeRock Identity Platform.
+    - Adjective: For supported components, containers, and Java versions, see the following:
 
 ## Try* 
 - Verb: Try to commit the changes. 
@@ -209,3 +214,6 @@ Set the controls.
 ## Uninstall* 
 - Verb: Uninstall the application. 
 - Noun: Perform an uninstall of the software.
+
+## Works with
+Express works with iOS, Android, and JS.
