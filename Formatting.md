@@ -3,7 +3,7 @@
 ## Attributes, classes, and other Java- related terms
 - Initial cap or lowercase the term as appropriate and lowercase the type. Ex.: the className attribute
 - Use the full term wherever possible (the className attribute instead of className)
-- Formatting these terms using the <code> tag (or other tags) is optional. Not formatting a term is preferred.
+- Not formatting a term is preferred.
 
 ## Conceptual topics 
 Use any of the following format when writing section headings or chapter titles for conceptual topics:
