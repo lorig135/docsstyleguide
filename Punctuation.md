@@ -35,5 +35,8 @@ data stores.
 Use to separate items in a series. Ex.: It separates the aci values into two lists; one contains the aci values that match the target and deny the required access, and the other
 contains the aci values that match the target and allow the required access.
 
+## Serial Semicolons
+Use to separate and clarify items in a series.  
+
 ## Symbols
 Use the complete word unless the symbol is part of the UI.
