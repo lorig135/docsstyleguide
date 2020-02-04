@@ -36,7 +36,7 @@ Use to separate items in a series. Ex.: It separates the aci values into two lis
 contains the aci values that match the target and allow the required access.
 
 ## Serial Semicolons
-Use to separate and clarify items in a series.  
+Use to separate and clarify items in a series. Ex.: These factors include (but are not limited to): updates to the cloud platform SDKs; changes to third-party software required for Kubernetes; changes you have made to sizing or configuration to suit your business needs. 
 
 ## Symbols
 Use the complete word unless the symbol is part of the UI.
