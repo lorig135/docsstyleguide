@@ -5,7 +5,7 @@
 - Use the full term wherever possible (the className attribute instead of className)
 - Formatting these terms using the <code> tag (or other tags) is optional. Not formatting a term is preferred.
 
-## Conceptual topics Need to discuss
+## Conceptual topics 
 Use any of the following format when writing section headings or chapter titles for conceptual topics:
 - Prepositions: About Identity Gateway
 - Nouns: Limitations of the Update Process GKE Software Requirements
