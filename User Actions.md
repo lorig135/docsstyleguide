@@ -1,6 +1,5 @@
 # User Actions
-Following are examples of verbs to use when describing how the user interacts with the product. Words with multiple meanings such as close, are marked with an asterisk.
-When you use a word with multiple meanings in your writing, decide which meaning of the word you will use, and use that meaning consistently throughout your writing. For example, if you use the word "clear" as a verb (Ex. Clear your browser cache), then always use clear as a verb. Do not use it as an adjective. Instead, find a synonym, and use it to avoid confusion. 
+Following are examples of verbs to that describe how the user interacts with the product. Words with multiple meanings such as close, are marked with an asterisk. When you use a word with multiple meanings, decide which meaning of the word you will use, and use that meaning consistently. For example, if you use the word "clear" as a verb, then always use it as a verb. Do not use it as an adjective. Find and use a synonym. 
 
 ## Access*
 - Noun: The Servlet layer provides RESTful HTTP access to the managed objects and service. 
@@ -143,7 +142,17 @@ Double-click the setup file to launch the installation wizard.
 - Noun: When is the point of this step?
 
 ## Press*
+- Verb: Press CTRL + C to stop the program.
+
+## Process
 - Verb: Press these keys to stop the program.
+- Noun: This process should complete soon.
+
+## Support*
+- Do not use as a verb; use as a noun or an adjective.  
+- These examples refer to Customer Support:
+    - Noun: ForgeRock provides commercial support for the ForgeRock Identity Platform.
+    - Adjective: For supported components, containers, and Java versions, see the following:
 
 ## Program 
 - Verb: Program the app. 
@@ -197,12 +206,6 @@ Double-click the setup file to launch the installation wizard.
 - Verb:Supply the information. 
 - Noun: We have a supply of files.
 
-## Support*
-- Do not use as a verb; use as a noun or an adjective.  
-- These examples refer to Customer Support:
-    - Noun: ForgeRock provides commercial support for the ForgeRock Identity Platform.
-    - Adjective: For supported components, containers, and Java versions, see the following:
-
 ## Try* 
 - Verb: Try to commit the changes. 
 - Noun: Give the installation another try.
@@ -211,5 +214,24 @@ Double-click the setup file to launch the installation wizard.
 - Verb: Uninstall the application. 
 - Noun: Perform an uninstall of the software.
 
+## Validate
+- Verb: Validate the software conforms to the specifications.
+
+## Verify
+- Verb: Verify the server was configured correctly. 
+
 ## Works with
 - Verb: Express works with iOS, Android, and JS.
+
+# Verbs To Avoid
+
+## Navigate
+- Use "go to" instead. 
+
+## Support*
+- Do not use as a verb; use as a noun or an adjective.  
+- These examples refer to Customer Support:
+    - Noun: ForgeRock provides commercial support for the ForgeRock Identity Platform.
+    - Adjective: For supported components, containers, and Java versions, see the following:
+
+
