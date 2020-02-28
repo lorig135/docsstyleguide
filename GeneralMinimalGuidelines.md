@@ -3,8 +3,8 @@ The goal is to make the complex information simple to understand and easy to fol
 
 
 * Use active voice wherever possible. Active voice drives succinct writing and is easier to translate. Examples:
-    * Passive voice: The setup screen is displayed.
-    * Active voice: The setup screen displays.
+    * Passive voice: The startup.sh script enables you to specify the following elements of a running instance.
+    * Active voice: The startup.sh script lets you specify the following elements of a running instance.
 
 * Sometimes passive voice is unavoidable. Example: The screen is hidden. 
 
