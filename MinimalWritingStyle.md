@@ -24,7 +24,7 @@ Following are guidelines for structuring a concept, task, and reference, and exa
 
 ### Concepts
 
-Structure
+#### Structure
 Topic title: H1 or H2, in gerund, preposition, or present tense. 
 Examples: Understanding Access Management, and Access Management. 
 
@@ -33,9 +33,9 @@ Example
 Access Management
 Access management is the process of controlling access to resources through authentication and authorization. Authentication confirms a user's identity and credentials. Authorization determines whether a user has sufficient privileges to access a resource. Learn more here.
 
-Tasks
+### Tasks
 
-Structure
+#### Structure
 Task title: H1 or H2, in gerund, preposition, or present tense. 
 Examples: Setting Up/Set Up Your Environment, About the Environment
 
@@ -51,9 +51,9 @@ Click New Application. The New Applications page displays.
 Click an app type in the New Applications page. ForgeRock loads the recommended default settings for your app.
 Add an authentication service to your app by clicking User Hosted Pages or Use the ForgeRock SDK. 
 
-References
+### References
 
-Structure
+#### Structure
 Topic title: H1 or H2, the name of the subject. 
 Examples: Supported Standards, Command-Line Tools
 
