@@ -10,11 +10,11 @@ Use the appropriate case and the <literal> tag with the name of the term, lowerc
 Ex.: className attribute, the curl command
 
 ## Callouts
-Initial cap the first letter of the first word in a callout.
+Initial cap the first letter of the first word in a callout. Ex. Alternate connection.
 
 ## Caption
 Example, Figure, Table
-Initial cap the first letter of each word unless it is a command, a literal, or code properties.
+Initial cap the first letter of each word unless it is a command, a literal, or code properties. Ex.: Figure 1.1: Missing Gateway
 
 ## Features
 I propose using lowercase when referring to a feature. Ex: administration connector
