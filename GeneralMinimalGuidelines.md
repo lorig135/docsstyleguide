@@ -2,13 +2,14 @@
 The goal is to make the complex information simple to understand and easy to follow, so our users can complete their work-related tasks effectively:
 
 
-Use active voice wherever possible. Active voice drives succinct writing and is easier to translate. Examples:
-Passive voice: The setup screen is displayed.
-Active voice: The setup screen displays.
-Sometimes passive voice is unavoidable. Example: The screen is hidden. 
+* Use active voice wherever possible. Active voice drives succinct writing and is easier to translate. Examples:
+    * Passive voice: The setup screen is displayed.
+    * Active voice: The setup screen displays.
 
-Use fewer words, as they reduce cognitive load and the wall of text:
-Ex.: ForgeRock Identity Platform™ serves as the basis for our simple and comprehensive Identity and Access Management solution.
+*Sometimes passive voice is unavoidable. Example: The screen is hidden. 
+
+* Use fewer words, as they reduce cognitive load and the wall of text:
+    * Ex.: ForgeRock Identity Platform™ serves as the basis for our simple and comprehensive Identity and Access Management solution.
 Rewrite 1: ForgeRock Identity Platform™ is the basis of our simple and comprehensive Identity and Access Management solution.
 Rewrite 2: ForgeRock Identity Platform™ is the basis of our IAM solution.
 
