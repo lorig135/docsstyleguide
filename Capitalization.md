@@ -1,10 +1,11 @@
 # Capitalization 
 
 ## Abbreviations and Acronyms
-Initial cap as appropriate. Ex.: LDAP, ID
+Initial cap as appropriate. Ex.: LDAP, ID.
 
 ## Adverbs	
 Initial cap adverbs with four or more letters in if they appear in headings. Ex.: simply, very. 
+
 ## Attributes, classes, commands, literals, subclasses, and other Java-related terms	
 Use the appropriate case and the <literal> tag with the name of the term, lowercase the type of term. 
 Ex.: className attribute, the curl command
@@ -14,10 +15,10 @@ Initial cap the first letter of the first word in a callout. Ex. Alternate conne
 
 ## Caption
 Example, Figure, Table
-Initial cap the first letter of each word unless it is a command, a literal, or code properties. Ex.: Figure 1.1: Missing Gateway
+Use sentence case unless it is a command, a literal, or code properties. Ex.: The following image illustrates a missing gateway.
 
 ## Features
-I propose using lowercase when referring to a feature. Ex: administration connector
+Use lowercase when referring to a feature. Ex: administration connector, admin UI
 There will be exceptions. What do you think of: core token service, token validation microservice 
 
 ## Headings and titles
