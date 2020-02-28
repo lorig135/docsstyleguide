@@ -1,18 +1,15 @@
 # General Writing Guidelines
 The goal is to make the complex information simple to understand and easy to follow, so our users can complete their work-related tasks effectively:
 
-
 * Use active voice wherever possible. Active voice drives succinct writing and is easier to translate. Examples:
     * Passive voice: The startup.sh script enables you to specify the following elements of a running instance.
     * Active voice: The startup.sh script lets you specify the following elements of a running instance.
-
-* Sometimes passive voice is unavoidable. Example: The screen is hidden. 
+    * Note that sometimes passive voice is unavoidable.  
 
 * Use fewer words, as they reduce cognitive load and the wall of text:
-    * Ex.: ForgeRock Identity Platform™ serves as the basis for our simple and comprehensive Identity and Access Management         solution.
-      * Rewrite 1: ForgeRock Identity Platform™ is the basis of our simple and comprehensive Identity and Access Management solution.
-      * Rewrite 2: ForgeRock Identity Platform™ is the basis of our IAM solution.
-
+    * Ex.: After installation steps are complete, it is recommended that the installer ZIP and the created installation folders and files be removed from the server.
+    * Rewrite: After installation is finished, remove the installer ZIP and the installation files from the server. 
+      
 * Break down complicated complicated sentences.
       * Example: The setup screen is displayed.
       * Rewrite: The setup screen displays.
