@@ -1,4 +1,4 @@
-About Minimal Writing
+# About Minimal Writing
 
 Think of minimal writing like a recipe in a cookbook. Recipes include precisely enough information about how to make something (like a cake), as well as the steps you need to follow to do so. 
 
@@ -12,7 +12,7 @@ A minimal writing style for self-hosted docs might look different than that of t
 
 For example, what does specific and succinct writing look like for deep-dive subjects like security considerations and other subjects for which we have many paragraphs or pages, and an audience that wants more information? These are some of the reasons we will implement this new style incrementally.
 
-The Foundation: Concepts, Tasks, and References 
+## The Foundation: Concepts, Tasks, and References 
 
 Concepts explain what something is, what it means, or how it is used. We currently use them in our product docs at the beginning of chapters, where we introduce, define, and elaborate on an element of our products, such as a feature. Some examples of concepts are what a throttling filter is and the different ways to configure it, or how Identity Governance and Administration manages and reduces user risk. 
 
@@ -22,7 +22,7 @@ References are used to research and find detailed information, which is often fo
 
 Following are guidelines for structuring a concept, task, and reference, and examples of what that might look like. Notice that we do not use infinitives in headings. The reason for this is the language of search queries. When users use search engines within ForgeRock or outside of it, their search terms are often worded as questions; such as, "How do I upgrade from AM 6.0 to 6.5?" or verb statements, such as, "Upgrade AM", or "Upgrading AM". We hope that using this language will also improve our findability. Also note that titles and the paragraphs of each topic type can include a tooltip, a collapse, or a link for users who want more.
 
-Concepts
+### Concepts
 
 Structure
 Topic title: H1 or H2, in gerund, preposition, or present tense. 
