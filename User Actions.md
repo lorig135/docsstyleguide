@@ -1,31 +1,30 @@
 # User Actions
 Following are examples of verbs to use when describing how the user interacts with the product. Words with multiple meanings such as close, are marked with an asterisk.
-When you use a word with multiple meanings in your writing, decide which meaning of the word you will use, and use that meaning
-consistently throughout your writing. For example, if you use the word "clear" as a verb (Ex. Clear your browser cache), then always use clear
-as a verb. Do not use it as an adjective. Instead, find a synonym, and use it to avoid confusion. 
+When you use a word with multiple meanings in your writing, decide which meaning of the word you will use, and use that meaning consistently throughout your writing. For example, if you use the word "clear" as a verb (Ex. Clear your browser cache), then always use clear as a verb. Do not use it as an adjective. Instead, find a synonym, and use it to avoid confusion. 
 
 ## Access*
 - Noun: The Servlet layer provides RESTful HTTP access to the managed objects and service. 
 - Verb: Access managed objects over the RESTinterface
 
 ## Activate
-Activate StartTLS on the current LDAP port.
+- Verb: Activate StartTLS on the current LDAP port.
 
 ## Add
-Add logos to the login page.
+- Verb: Add logos to the login page.
 
 ## Appears
-Does an element appear or display?
+- Verb: Does an element appear or display?
 
 ## Back up
-Remember to back up your files. Noun: Create a backup of your files. 
+- Verb:Remember to back up your files. 
+- Noun: Create a backup of your files. 
 
 ## Check*
 - Verb: Check the connector configuration. 
 - Noun: OCSP provides an online service that handles the revocation check for a specific certificate.
 
 ## Choose
-Choose from the list of link qualifiers.
+- Verb: Choose from the list of link qualifiers.
 
 ## Clean*
 - Verb: Clean your Mac. 
@@ -36,7 +35,7 @@ Choose from the list of link qualifiers.
 - Adjective: This code is clear.
 
 ## Click
-Click the link.
+- Verb: Click the link.
 
 ## Clock*
 - Verb: Clock the differences between replicas. 
@@ -48,7 +47,7 @@ Click the link.
 - Noun: Save your work at close of day.
 
 ## Configure
-Configure AM to grant capabilities to another user.
+- Verb: Configure AM to grant capabilities to another user.
 
 ## Copy*
 - Verb: Copy the configuration. 
@@ -67,13 +66,13 @@ Configure AM to grant capabilities to another user.
 - Adjective: The connection is cut.
 
 ## Delete
-Delete the files. 
+- Verb: Delete the files. 
 
 ## Deselect
-Deselect the radio button.
+- Verb: Deselect the radio button.
 
 ## Display
-Display the answers.
+- Verb: Display the answers.
 
 ## Double-click
 Double-click the setup file to launch the installation wizard.
@@ -83,13 +82,13 @@ Double-click the setup file to launch the installation wizard.
 - Adjective: It's a drag when the server crashes.
 
 ## Drop
-The server will drop the operation in progress.
+- Verb: The server will drop the operation in progress.
 
 ## Enter
-Enter the information at the prompt.
+- Verb: Enter the information at the prompt.
 
 ## Expand
-Expand the configuration item.
+- Verb: Expand the configuration item.
 
 ## Find* 
 - Verb: Find the installation. 
@@ -100,34 +99,31 @@ Expand the configuration item.
 - Noun: The command reports the differences between two files in this format.
 
 ## Go to: 
-Go to the URL. Use *go to* instead of browse or navigate.
+- Verb: Go to the URL. Use *go to* instead of browse or navigate.
 
 ## Highlight
-Use highlight to describe the action of using color to emphasize a text selection in a program. Ex: Highlight the range of cells to copy.
+- Verb: Use highlight to describe the action of using color to emphasize a text selection in a program. Ex: Highlight the range of cells to copy.
 
 ## Install
 - Verb: Install the software. 
 - Noun: Run the install program.
 
 ## Is + verb
-The ForgeRock SDKs Beta release *is compatible with* the following operating system versions.
+- Verb: The ForgeRock SDKs Beta release *is compatible with* the following operating system versions.
 
 ## Locate
-Locate the directory. Note: *Find* is preferrable to *locate*.
+- Verb: Locate the directory. Note: *Find* is preferrable to *locate*.
 
 ## Log in /Log out  
 - Log in to the website. 
 - Log out of the program.
 
 ## Manage
-Manage the server as Directory Manager. Use *manage* as a synonym for *administer*.
+- Verb: Manage the server as Directory Manager. Use *manage* as a synonym for *administer*.
 
 ## Move* 
 - Verb: A modify DN request is used to move a directory entry. 
 - Noun: Our employees are happier since we made the move to AM.
-
-## Navigate
-Navigate to the file. Note: *Go to* is preferable to *navigate*.
 
 ## Note*
 - Verb: Note the differences between the versions. 
@@ -147,26 +143,26 @@ Navigate to the file. Note: *Go to* is preferable to *navigate*.
 - Noun: When is the point of this step?
 
 ## Press*
-Press these keys to stop the program.
+- Verb: Press these keys to stop the program.
 
 ## Program 
 - Verb: Program the app. 
 - Noun: How do I stop the program?
 
 ## Provide
-Use instead of *support*. Ex: AM provides OAuth 2.0, passwordless, and 2-Factor authentication functionality.
+- Verb: Use instead of *support*. Ex: AM provides OAuth 2.0, passwordless, and 2-Factor authentication functionality.
 
 ## Release* 
 - Verb: Select the keys, then release them. 
 - Noun: Here is the new release of the product.
 
 ## Remove
-Remove the files. 
+- Verb: Remove the files. 
 
 ## Resize
-Resize the window.
+- Verb: Resize the window.
 
-Run
+## Run
 - Verb: Run the application. 
 - Adjective: The software is running. 
 
@@ -179,11 +175,11 @@ Run
 - Noun: That version is as out of date as a scroll.
 
 ## Select* 
-Verb: Select the menu. 
-Adjective: A select group of files.
+- Verb: Select the menu. 
+- Adjective: A select group of files.
 
 ## Set
-Set the controls. 
+- Verb: Set the controls. 
 
 ## Sign in/Sign out* 
 - Verb: Sign out of the product. 
@@ -216,4 +212,4 @@ Set the controls.
 - Noun: Perform an uninstall of the software.
 
 ## Works with
-Express works with iOS, Android, and JS.
+- Verb: Express works with iOS, Android, and JS.
