@@ -1,4 +1,4 @@
-# About Minimal Writing
+# Writing Minimally
 
 Think of minimal writing like a recipe in a cookbook. Recipes include precisely enough information about how to make something (like a cake), as well as the steps you need to follow to do so. 
 
