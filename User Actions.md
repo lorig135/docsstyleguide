@@ -103,6 +103,10 @@ Double-click the setup file to launch the installation wizard.
 ## Highlight
 - Verb: Use highlight to describe the action of using color to emphasize a text selection in a program. Ex: Highlight the range of cells to copy.
 
+## Input
+- Verb: Input the information. 
+- Noun: The command provides a properties file for script input. 
+
 ## Install
 - Verb: Install the software. 
 - Noun: Run the install program.
