@@ -9,7 +9,7 @@ Note that the following recommendations will be piloted with FR-hosted docs (FRa
 It will take some time to implement and refine our writing style during the pilot phase. Once we have a good idea of what that will look like, we can begin work on a minimal writing style for self-hosted docs (those currently not based in the cloud). 
 
 A minimal writing style for self-hosted docs might look different than that of the FR-hosted docs, given the differences in audiences (noobs vs. SMEs), the look and feel of the UI, the differences in content, as well as how it is consumed. 
-For example, what does specific and succinct writing look like for subjects like security considerations, for which we have many paragraphs or pages, and an audience that wants to deep-dive into the subject matter? These are some of the reasons we it will take time to create and implement this new style. 
+For example, what does specific and succinct writing look like for subjects like security considerations, for which we have many paragraphs or pages, and an audience that wants to deep-dive into the subject matter? We really don't know yet. These are some of the reasons we it will take time to create and implement this new style. 
 
 ## Minimal Writing Structure: Concepts, Tasks, and References 
 
@@ -80,8 +80,10 @@ Here are some steps you can take now to move your writing toward a minimalist st
 - Avoid repetition of the title in second- and third-level headings. For example: 
 First-level heading: 
 Upgrading to Version 7.0
-In this section, you'll learn how to upgrade to version 7.0
+In this section, you'll learn how to upgrade to version 7.0.
+
 Second-level heading: To Upgrade to Version 7.0
+To upgrade to version 7.0, perform the following steps:
 
 
 In paragraphs: 
@@ -91,8 +93,6 @@ In sentences: Use active voice wherever possible. Active voice drives succinct w
 - Passive voice: The startup.sh script enables you to specify the following elements of a running instance.
 - Active voice: The startup.sh script lets you specify the following elements of a running instance.
 - Note that sometimes passive voice is unavoidable. 
-
-Notice that we do not use infinitives in headings. The reason for this is the language of search queries. W We hope that using this language will also improve our findability. Also note that titles and the paragraphs of each topic type can include a tooltip, a collapse, or a link for users who want more
  
 Use fewer words, as they reduce cognitive load and the wall of text:
 - Ex.: After installation steps are complete, it is recommended that the installer ZIP and the created installation folders and files be removed from the server.
