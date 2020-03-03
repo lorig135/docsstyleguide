@@ -4,7 +4,7 @@ Think of minimal writing like a recipe in a cookbook. Recipes include precisely 
 
 When writing minimally, you provide only/exactly as much information as the user needs to either understand a concept or a reference, or to accomplish a task. Note that the amount and complexity of information to include may vary, but it needs to be as specific and succinct as possible.  The goal is to make complex subject matter simple to understand and easy to follow, so our users can complete their work-related tasks quickly and effectively.
 
-Note that the following recommendations will be piloted with FR-hosted docs (FRaaS). Although they are preliminary and likely to change, here are some early attempts by the FRaaS team at implementing minimal writing: https://developer.forgerock.com/docs/identity-cloud. 
+Note that the following recommendations will be piloted with FR-hosted docs (FRaaS). Here are some current examples of minimal writing: https://sdks.forgerock.com. 
 
 It will take some time to implement and refine our writing style during the pilot phase. Once we have a good idea of what that will look like, we can begin work on a minimal writing style for self-hosted docs (those currently not based in the cloud). 
 
@@ -74,6 +74,9 @@ authrate -p 1389 -D 'uid=user.{},ou=people,dc=example,dc=com' \
 ## Screenshots and Graphics
 How much is enough? Too much? 
 
+## Code and Output
+No change. 
+
 # Moving Toward a Minimal Writing Style
 Here are some steps you can take now to move your writing toward a minimalist style. 
 
@@ -81,13 +84,18 @@ Here are some steps you can take now to move your writing toward a minimalist st
 - Use gerunds, prepositions, or present tense.
 - Avoid infinitives or use them minimally, for SEO reasons. When users use search engines within the ForgeRock website or outside of it, their search terms are often worded as verb statements, such as, "Upgrade to AM 7", or "Upgrading AM", or questions; such as, "How to upgrade from AM 6.5 to 7.0".
 - Avoid repetition of the title in second- and third-level headings. For example: 
+
 First-level heading: 
 Upgrading to Version 7.0
 In this section, you'll learn how to upgrade to version 7.0.
 
 Second-level heading: To Upgrade to Version 7.0
-To upgrade to version 7.0, perform the following steps:
+Follow these steps to upgrade to version 7.0: 
 
+Rewrite
+First-level heading: 
+Upgrading to Version 7.0
+In this section, you'll learn how to upgrade to version 7.0. Follow these steps: 
 
 In paragraphs: 
 
