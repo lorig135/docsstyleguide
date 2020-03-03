@@ -12,14 +12,12 @@ For example, what does specific and succinct writing look like for subjects like
 
 What follows is a proposed structure for minimal writing. 
 
-## How to Structure Minimal Writing: Concepts, Tasks, and References 
+## Minimal Writing Structure: Concepts, Tasks, and References 
 
-Minimal writing is topic-based, and comprised of three types of topics: concepts, tasks, and references. When we write about any of these topics, they should be written as independent chunks of information that can stand alone (meaning little or no context is needed), and can also (eventually) be repurposed, and/or connected with other, independent and reusable chunks of information.
+Minimal writing is topic-based, and includes three types of topics: concepts, tasks, and references. When we write about any of these topics, they should be written as independent chunks of information that can stand alone (meaning little or no context is needed), and can also (eventually) be repurposed, and/or connected with other, independent and reusable chunks of information.
 
 ### Concepts
 Concepts explain what something is, what it means, or how it is used. We currently use them in our product docs at the beginning of chapters, where we introduce, define, and elaborate on an element of our products, such as a feature. Some examples of concepts are what a throttling filter is and the different ways to configure it, or how Identity Governance and Administration manages and reduces user risk. 
-
-
 
 #### Structure
 Topic title: H1 or H2, in gerund, preposition, or present tense. 
