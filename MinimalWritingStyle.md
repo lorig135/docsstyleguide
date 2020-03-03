@@ -34,6 +34,7 @@ Topic paragraph: Two to three sentences about the topic.
 
 #### Example
 Access Management
+
 Access management is the process of controlling access to resources through authentication and authorization. Authentication confirms a user's identity and credentials. Authorization determines whether a user has sufficient privileges to access a resource. Learn more here.
 
 ### Tasks
@@ -48,6 +49,7 @@ Task steps: Step-by-step instructions for accomplishing a task or a goal.
 
 #### Example
 Setting Up Your Environment
+
 Add a tenant, application, and authentication service:
 Access your tenant URL: https://my company.forgerock.com and sign in. 
 Click New Application. The New Applications page displays.  
@@ -64,6 +66,7 @@ Paragraph: One to three sentences about the topic.
 
 #### Example
 authrate utility
+
 Used to measure bind throughput and response time of a directory service using user-defined bind or search-then-bind operations. Example: 
 
 authrate -p 1389 -D 'uid=user.{},ou=people,dc=example,dc=com' \
