@@ -1,4 +1,4 @@
-# General Writing Guidelines
+# General Minimal Writing Guidelines
 The goal is to make the complex information simple to understand and easy to follow, so our users can complete their work-related tasks effectively:
 
 Use active voice wherever possible. Active voice drives succinct writing and is easier to translate. Examples:
