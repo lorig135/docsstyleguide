@@ -72,6 +72,9 @@ Used to measure bind throughput and response time of a directory service using u
 authrate -p 1389 -D 'uid=user.{},ou=people,dc=example,dc=com' \
 -w password -f -c 10 -g 'rand(0,2000)'
 
+# Interim Steps
+
+
 # General Minimal Writing Guidelines
 The goal is to make the complex information simple to understand and easy to follow, so our users can complete their work-related tasks effectively:
 
