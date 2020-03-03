@@ -15,7 +15,7 @@ For example, what does specific and succinct writing look like for subjects like
 
 Minimal writing is topic-based, and includes three types of topics: concepts, tasks, and references. When we write about any of these topics, they should be written as independent chunks of information that can stand alone (meaning little or no context is needed), and can also (eventually) be repurposed, and/or connected with other, independent and reusable chunks of information.
 
-Following are guidelines for structuring a concept, task, and reference, and examples of what that might look like. Note that 
+Following are guidelines for structuring a concept, task, and reference, and examples of what that might look like. 
 
 ### Concepts
 Concepts explain what something is, what it means, or how it is used. We currently use them in our product docs at the beginning of chapters, where we introduce, define, and elaborate on an element of our products, such as a feature. Some examples of concepts are what a throttling filter is and the different ways to configure it, or how Identity Governance and Administration manages and reduces user risk. 
@@ -99,30 +99,9 @@ Use a gerund, preposition, present tense, or noun phrase:
 Avoid infinitives or use them minimally, for SEO reasons:
 - When users use search engines within the ForgeRock website or outside of it, their search terms are often worded as verb statements, such as, "Upgrade to AM 7", or "Upgrading AM", or questions; such as, "How to upgrade from AM 6.5 to 7.0".
 
-Avoid repetition of the title in second- and third-level headings. For example: 
+Avoid repetition of the title in second- and third-level headings. For example:  
 
-First-level heading and paragraph: 
-
-Upgrading to Version 7.0
-In this section, you'll learn how to upgrade to version 7.0.
-
-Second-level heading and paragraph: 
-
-To Upgrade to Version 7.0
-Follow these steps to upgrade to version 7.0: 
-
-Rewrite:
-
-Use the first-level heading and omit the second-level heading. 
-
-First-level heading: 
-Upgrading to Version 7.0
-In this section, you'll learn how to upgrade to version 7.0. Follow these steps: 
-
-Alternatively, you could use a second-level heading name that is different than the first-level heading. Not including a second-level heading is preferable, as it is a cleaner layout (more whitespace)
-
-
-
+While, you could use a name in the second-level heading that is different than that of the first-level heading, using a first-level heading is preferable, as it can yield a cleaner layout and more white space, which is easier to read. 
 
 In paragraphs: 
 
