@@ -72,7 +72,7 @@ authrate -p 1389 -D 'uid=user.{},ou=people,dc=example,dc=com' \
 -w password -f -c 10 -g 'rand(0,2000)'
 
 ## Screenshots and Graphics
-How much is enough? Too much? 
+How much is sufficient, especially in UI-driven docs? TBD.
 
 ## Code and Output
 No change. 
@@ -81,9 +81,15 @@ No change.
 Here are some steps you can take now to move your writing toward a minimalist style. 
 
 ## In titles or headings
-- Use gerunds, prepositions, or present tense.
-- Avoid infinitives or use them minimally, for SEO reasons. When users use search engines within the ForgeRock website or outside of it, their search terms are often worded as verb statements, such as, "Upgrade to AM 7", or "Upgrading AM", or questions; such as, "How to upgrade from AM 6.5 to 7.0".
-- Avoid repetition of the title in second- and third-level headings. For example: 
+Use gerunds, prepositions, or present tense.
+Gerund: Upgrading to 7.0
+Preposition: About Upgrading
+Present tense: 
+Noun phrase: 
+
+Avoid infinitives or use them minimally, for SEO reasons. When users use search engines within the ForgeRock website or outside of it, their search terms are often worded as verb statements, such as, "Upgrade to AM 7", or "Upgrading AM", or questions; such as, "How to upgrade from AM 6.5 to 7.0".
+
+Avoid repetition of the title in second- and third-level headings. For example: 
 
 First-level heading: 
 Upgrading to Version 7.0
