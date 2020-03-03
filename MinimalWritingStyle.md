@@ -101,18 +101,28 @@ Avoid infinitives or use them minimally, for SEO reasons:
 
 Avoid repetition of the title in second- and third-level headings. For example: 
 
-First-level heading: 
+First-level heading and paragraph: 
+
 Upgrading to Version 7.0
 In this section, you'll learn how to upgrade to version 7.0.
 
-Second-level heading: 
+Second-level heading and paragraph: 
+
 To Upgrade to Version 7.0
 Follow these steps to upgrade to version 7.0: 
 
 Rewrite:
+
+Use the first-level heading and omit the second-level heading. 
+
 First-level heading: 
 Upgrading to Version 7.0
 In this section, you'll learn how to upgrade to version 7.0. Follow these steps: 
+
+Alternatively, you could use a second-level heading name that is different than the first-level heading. Not including a second-level heading is preferable, as it is a cleaner layout (more whitespace)
+
+
+
 
 In paragraphs: 
 
