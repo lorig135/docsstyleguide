@@ -71,6 +71,9 @@ Used to measure bind throughput and response time of a directory service using u
 authrate -p 1389 -D 'uid=user.{},ou=people,dc=example,dc=com' \
 -w password -f -c 10 -g 'rand(0,2000)'
 
+## Screenshots and Graphics
+How much is enough? Too much? 
+
 # Moving Toward a Minimal Writing Style
 Here are some steps you can take now to move your writing toward a minimalist style. 
 
