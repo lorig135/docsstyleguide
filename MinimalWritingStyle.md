@@ -26,7 +26,7 @@ Topic title: <title, h1, or h2>
 - Use a gerund, preposition, present tense, or noun phrase: 
   - Gerund: Setting Up Access Management
   - Preposition: About Access Management
-  - Present tense: Set Up Access Management
+  - Verb statement: Set Up Access Management
   - Noun phrase: Access Management Setup 
 
 Topic paragraph: <para>
@@ -45,7 +45,7 @@ Task title: <title, h1, or h2>
 - Use a gerund, preposition, present tense, or noun phrase: 
   - Gerund: Setting Up Access Management
   - Preposition: About Access Management
-  - Present tense: Set Up Access Management
+  - Verb statement: Set Up Access Management
   - Noun phrase: Access Management Setup 
 
 Task paragraph (optional): Two to three sentences about the topic. Each sentence should complete a step or a task. Use shortcuts like greater than arrows for menu selections (Click Applications > New Application).   
@@ -93,7 +93,7 @@ Here are some steps you can take now to move your writing toward a minimalist st
 Use a gerund, preposition, present tense, or noun phrase: 
   - Gerund: Setting Up Access Management
   - Preposition: About Access Management
-  - Present tense: Set Up Access Management
+  - Verb statement: Set Up Access Management
   - Noun phrase: Access Management Setup 
 
 Avoid infinitives or use them minimally, for SEO reasons:
