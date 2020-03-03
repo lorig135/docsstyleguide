@@ -77,6 +77,11 @@ Here are some steps you can take now to move your writing toward a minimalist st
 ## In titles or headings
 - Use gerunds, prepositions, or present tense.
 - Avoid infinitives or use them minimally, for SEO reasons. When users use search engines within the ForgeRock website or outside of it, their search terms are often worded as verb statements, such as, "Upgrade to AM 7", or "Upgrading AM", or questions; such as, "How to upgrade from AM 6.5 to 7.0".
+- Avoid repetition of the title in second- and third-level headings. For example: 
+First-level heading: 
+Upgrading to Version 7.0
+In this section, you'll learn how to upgrade to version 7.0
+Second-level heading: To Upgrade to Version 7.0
 
 
 In paragraphs: 
