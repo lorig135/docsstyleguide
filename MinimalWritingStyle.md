@@ -14,7 +14,7 @@ For example, what does specific and succinct writing look like for subjects like
 
 What follows is a proposed structure for minimal writing. 
 
-## The Foundation: Concepts, Tasks, and References 
+## How We Write Minimally: Concepts, Tasks, and References 
 
 Concepts explain what something is, what it means, or how it is used. We currently use them in our product docs at the beginning of chapters, where we introduce, define, and elaborate on an element of our products, such as a feature. Some examples of concepts are what a throttling filter is and the different ways to configure it, or how Identity Governance and Administration manages and reduces user risk. 
 
