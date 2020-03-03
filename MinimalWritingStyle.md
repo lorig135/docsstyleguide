@@ -72,8 +72,15 @@ authrate -p 1389 -D 'uid=user.{},ou=people,dc=example,dc=com' \
 # Moving Toward a Minimal Writing Style
 Here are some steps you can take to move your writing toward a minimalist style. 
 
-In headings: 
-Use 
+In titles or headings: 
+
+- Use gerunds, prepositions, or present tense.
+- Avoid infinitives or use them minimally, for SEO reasons. 
+  - When users use search engines within ForgeRock or outside of it, their search terms are often worded as questions; such as, "How do I upgrade from AM 6.0 to 6.5?" or verb statements, such as, "Upgrade AM", or "Upgrading AM".
+
+
+In paragraphs: 
+
 
 In sentences: Use active voice wherever possible. Active voice drives succinct writing and is easier to translate. Examples:
 - Passive voice: The startup.sh script enables you to specify the following elements of a running instance.
@@ -82,7 +89,7 @@ In sentences: Use active voice wherever possible. Active voice drives succinct w
 
 Use ger
 
-Notice that we do not use infinitives in headings. The reason for this is the language of search queries. When users use search engines within ForgeRock or outside of it, their search terms are often worded as questions; such as, "How do I upgrade from AM 6.0 to 6.5?" or verb statements, such as, "Upgrade AM", or "Upgrading AM". We hope that using this language will also improve our findability. Also note that titles and the paragraphs of each topic type can include a tooltip, a collapse, or a link for users who want more
+Notice that we do not use infinitives in headings. The reason for this is the language of search queries. W We hope that using this language will also improve our findability. Also note that titles and the paragraphs of each topic type can include a tooltip, a collapse, or a link for users who want more
  
 Use fewer words, as they reduce cognitive load and the wall of text:
 - Ex.: After installation steps are complete, it is recommended that the installer ZIP and the created installation folders and files be removed from the server.
