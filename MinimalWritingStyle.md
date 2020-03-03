@@ -6,7 +6,7 @@ When writing minimally, you provide only/exactly as much information as the user
 
 Minimal writing is topic-based. The three main types of topics we will write about include concepts, tasks, and references. When we write about any of these topics, they should be written as independent chunks of information that can stand alone (meaning little or no context is needed), and can also (eventually) be repurposed, and/or connected with other, independent and reusable chunks of information. 
 
-Note that the following recommendations will be piloted with FR-hosted docs (FRaaS). It will take some time to refine our writing style during the pilot phase. Once we have a good idea of what that will look like, we can begin work on a minimal writing style for self-hosted docs (not based in the cloud). Although  preliminary and likely to change, here are some early attempts at implementing minimal writing: https://developer.forgerock.com/docs/identity-cloud.
+Note that the following recommendations will be piloted with FR-hosted docs (FRaaS). It will take some time to refine our writing style during the pilot phase. Once we have a good idea of what that will look like, we can begin work on a minimal writing style for self-hosted docs (not based in the cloud). Although  preliminary and likely to change, here are some early attempts by the FRaaS team at implementing minimal writing: https://developer.forgerock.com/docs/identity-cloud.
 
 A minimal writing style for self-hosted docs might look different than that of the FR-hosted docs, given the differences in audiences (noobs vs. SMEs), the look and feel of the UI, the differences in content, as well as how it is consumed. 
 
