@@ -22,15 +22,16 @@ Concepts explain what something is, what it means, or how it is used. We current
 
 #### Minimal Writing Structure
 
-Topic title: Title, H1, or H2
-Gerund, preposition, present tense, or a noun phrase. For example, Understanding Access Management, Access Management Requirements. 
+Topic title: <title, h1, or h2>
+Gerund, preposition, present tense, or a noun phrase. For example: Understanding Access Management, About Access Management Access Management, Access Management Requirements. 
 
-Topic paragraph: Two to three sentences (or whatever amount of sentences are enough information for the user to understand) about the topic. 
+Topic paragraph: <para>
+Two to three sentences (or whatever amount of sentences are enough information for the user to understand) about the topic. 
 
 #### Example of a Concept
 Access Management <title, h1, or h2>
 
-Access management is the process of controlling access to resources through authentication and authorization. Authentication confirms a user's identity and credentials. Authorization determines whether a user has sufficient privileges to access a resource. Learn more here.
+<para>Access management is the process of controlling access to resources through authentication and authorization. Authentication confirms a user's identity and credentials. Authorization determines whether a user has sufficient privileges to access a resource. 
 
 ### Tasks
 Tasks show how to use a feature or an element of our products to accomplish a task or a goal. We usually do this with a numbered or bulleted list. Some examples of tasks are authenticating from a browser, or installing the CDM on a small cluster. 
