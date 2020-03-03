@@ -41,11 +41,12 @@ Access management is the process of controlling access to resources through auth
 Tasks show how to use a feature or an element of our products to accomplish a task or a goal. We usually do this with a numbered or bulleted list. Some examples of tasks are authenticating from a browser, or installing the CDM on a small cluster. 
 
 #### Structure
-Task title: H1 or H2, in gerund, preposition, or present tense. 
-Gerund: Setting Up Your Environment 
-Preposition: About Access Management
-Present tense: Access Management
-Noun phrase: Access Management RequirementsExamples: Setting Up/Set Up Your Environment, About the Environment
+Task title: H1 or H2, in gerund, preposition, or present tense.
+Use a gerund, preposition, present tense, or noun phrase: 
+  - Gerund: Setting Up Access Management
+  - Preposition: About Access Management
+  - Present tense: Set Up Access Management
+  - Noun phrase: Access Management Setup 
 
 Task paragraph (optional): Two to three sentences about the topic. Each sentence should complete a step or a task. Use shortcuts like greater than arrows for menu selections (Click Applications > New Application).   
 
@@ -88,11 +89,11 @@ No change.
 Here are some steps you can take now to move your writing toward a minimalist style. 
 
 ## In titles or headings
-Use gerunds, prepositions, or present tense.
-Gerund: Upgrading to 7.0
-Preposition: About Upgrading
-Present tense: 
-Noun phrase: 
+Use a gerund, preposition, present tense, or noun phrase: 
+  - Gerund: Setting Up Access Management
+  - Preposition: About Access Management
+  - Present tense: Set Up Access Management
+  - Noun phrase: Access Management Setup 
 
 Avoid infinitives or use them minimally, for SEO reasons. When users use search engines within the ForgeRock website or outside of it, their search terms are often worded as verb statements, such as, "Upgrade to AM 7", or "Upgrading AM", or questions; such as, "How to upgrade from AM 6.5 to 7.0".
 
