@@ -16,29 +16,25 @@ What follows is a proposed structure for minimal writing.
 
 Minimal writing is topic-based, and includes three types of topics: concepts, tasks, and references. When we write about any of these topics, they should be written as independent chunks of information that can stand alone (meaning little or no context is needed), and can also (eventually) be repurposed, and/or connected with other, independent and reusable chunks of information.
 
+Following are guidelines for structuring a concept, task, and reference, and examples of what that might look like. Notice that we do not use infinitives in headings. The reason for this is the language of search queries. When users use search engines within ForgeRock or outside of it, their search terms are often worded as questions; such as, "How do I upgrade from AM 6.0 to 6.5?" or verb statements, such as, "Upgrade AM", or "Upgrading AM". We hope that using this language will also improve our findability. Also note that titles and the paragraphs of each topic type can include a tooltip, a collapse, or a link for users who want more.
+
+
 ### Concepts
 Concepts explain what something is, what it means, or how it is used. We currently use them in our product docs at the beginning of chapters, where we introduce, define, and elaborate on an element of our products, such as a feature. Some examples of concepts are what a throttling filter is and the different ways to configure it, or how Identity Governance and Administration manages and reduces user risk. 
 
-#### Structure
-Topic title: H1 or H2, in gerund, preposition, or present tense. 
-Examples: Understanding Access Management, and Access Management. 
+#### Minimal Writing Structure
+Topic title: H1 or H2, in gerund, preposition, or present tense. For example, Understanding Access Management, Access Management. 
 
 Topic paragraph: Two to three sentences about the topic. 
 
-#### Example
+#### Example of a Concept
 Access Management
 
 Access management is the process of controlling access to resources through authentication and authorization. Authentication confirms a user's identity and credentials. Authorization determines whether a user has sufficient privileges to access a resource. Learn more here.
 
+### Tasks
 Tasks show how to use a feature or an element of our products to accomplish a task or a goal. We usually do this with a numbered or bulleted list. Some examples of tasks are authenticating from a browser, or installing the CDM on a small cluster. 
 
-References are used to research and find detailed information, which is often formatted as tables or in an appendix. Some examples of references are timers, and their rates of execution times for queries and CRUD operations, or severe and fatal error messages for servers and their tools. 
-
-Following are guidelines for structuring a concept, task, and reference, and examples of what that might look like. Notice that we do not use infinitives in headings. The reason for this is the language of search queries. When users use search engines within ForgeRock or outside of it, their search terms are often worded as questions; such as, "How do I upgrade from AM 6.0 to 6.5?" or verb statements, such as, "Upgrade AM", or "Upgrading AM". We hope that using this language will also improve our findability. Also note that titles and the paragraphs of each topic type can include a tooltip, a collapse, or a link for users who want more.
-
-
-
-### Tasks
 
 #### Structure
 Task title: H1 or H2, in gerund, preposition, or present tense. 
@@ -58,6 +54,7 @@ Click an app type in the New Applications page. ForgeRock loads the recommended 
 Add an authentication service to your app by clicking User Hosted Pages or Use the ForgeRock SDK. 
 
 ### References
+References are used to research and find detailed information, which is often formatted as tables or in an appendix. Some examples of references are timers, and their rates of execution times for queries and CRUD operations, or severe and fatal error messages for servers and their tools. 
 
 #### Structure
 Topic title: H1 or H2, the name of the subject. 
