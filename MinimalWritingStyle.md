@@ -6,10 +6,9 @@ When writing minimally, you provide only/exactly as much information as the user
 
 Note that the following recommendations will be piloted with FR-hosted docs (FRaaS). Although  preliminary and likely to change, here are some early attempts by the FRaaS team at implementing minimal writing: https://developer.forgerock.com/docs/identity-cloud. 
 
-It will take some time to implement and refine our writing style during the pilot phase. Once we have a good idea of what that will look like, we can begin work on a minimal writing style for self-hosted docs (not based in the cloud). 
+It will take some time to implement and refine our writing style during the pilot phase. Once we have a good idea of what that will look like, we can begin work on a minimal writing style for self-hosted docs (those currently not based in the cloud). 
 
 A minimal writing style for self-hosted docs might look different than that of the FR-hosted docs, given the differences in audiences (noobs vs. SMEs), the look and feel of the UI, the differences in content, as well as how it is consumed. 
-
 For example, what does specific and succinct writing look like for subjects like security considerations, for which we have many paragraphs or pages, and an audience that wants to deep-dive into the subject matter? These are some of the reasons we it will take time to create and implement this new style. 
 
 ## Minimal Writing Structure: Concepts, Tasks, and References 
@@ -17,7 +16,6 @@ For example, what does specific and succinct writing look like for subjects like
 Minimal writing is topic-based, and includes three types of topics: concepts, tasks, and references. When we write about any of these topics, they should be written as independent chunks of information that can stand alone (meaning little or no context is needed), and can also (eventually) be repurposed, and/or connected with other, independent and reusable chunks of information.
 
 Following are guidelines for structuring a concept, task, and reference, and examples of what that might look like. Note that 
-
 
 ### Concepts
 Concepts explain what something is, what it means, or how it is used. We currently use them in our product docs at the beginning of chapters, where we introduce, define, and elaborate on an element of our products, such as a feature. Some examples of concepts are what a throttling filter is and the different ways to configure it, or how Identity Governance and Administration manages and reduces user risk. 
