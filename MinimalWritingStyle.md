@@ -6,11 +6,13 @@ When writing minimally, you provide only/exactly as much information as the user
 
 Minimal writing is topic-based. The three main types of topics we will write about include concepts, tasks, and references. When we write about any of these topics, they should be written as independent chunks of information that can stand alone (meaning little or no context is needed), and can also (eventually) be repurposed, and/or connected with other, independent and reusable chunks of information. 
 
-Note that the following recommendations will be piloted with FR-hosted docs (FRaaS). It will likely take some time to refine our writing style during the pilot phase and may continue to be fluid. Once we have a decent idea of what that will look like, we can begin work on a minimal writing style for self-hosted docs (not based in the cloud). 
+Note that the following recommendations will be piloted with FR-hosted docs (FRaaS). It will take some time to refine our writing style during the pilot phase. Once we have a good idea of what that will look like, we can begin work on a minimal writing style for self-hosted docs (not based in the cloud). Although  preliminary and likely to change, here are some early attempts at implementing minimal writing: https://developer.forgerock.com/docs/identity-cloud.
 
-A minimal writing style for self-hosted docs might look different than that of the FR-hosted docs, given the differences in audiences (noobs vs. SMEs), the differences in content, as well as how it is consumed. 
+A minimal writing style for self-hosted docs might look different than that of the FR-hosted docs, given the differences in audiences (noobs vs. SMEs), the look and feel of the UI, the differences in content, as well as how it is consumed. 
 
-For example, what does specific and succinct writing look like for deep-dive subjects like security considerations and other subjects for which we have many paragraphs or pages, and an audience that wants more information? These are some of the reasons we will implement this new style incrementally.
+For example, what does specific and succinct writing look like for subjects like security considerations and other subjects for which we have many paragraphs or pages, and an audience that wants to deep-dive into the subject matter? These are some of the reasons we will implement this new style over time and in increments. 
+
+What follows is a proposed structure for minimal writing. 
 
 ## The Foundation: Concepts, Tasks, and References 
 
@@ -20,13 +22,13 @@ Tasks explain how to use a feature or an element of our products to accomplish a
 
 References are used to research and find detailed information, which is often formatted as tables or in an appendix. Some examples of references are timers, and their rates of execution times for queries and CRUD operations, or severe and fatal error messages for servers and their tools. 
 
-Following are guidelines for structuring a concept, task, and reference, and examples of what that might look like. Notice that we do not use infinitives in headings. The reason for this is the language of search queries. When users use search engines within ForgeRock or outside of it, their search terms are often worded as questions, such as, "How do I upgrade from AM 6.0 to 6.5?" or verb statements, such as, "Upgrade AM", or "Upgrading AM". We hope that using this language will also improve our findability. Also note that titles and the paragraphs of each topic type can include a tooltip, a collapse, or a link for users who want more information.
+Following are guidelines for structuring a concept, task, and reference, and examples of what that might look like. Notice that we do not use infinitives in headings. The reason for this is the language of search queries. When users use search engines within ForgeRock or outside of it, their search terms are often worded as questions; such as, "How do I upgrade from AM 6.0 to 6.5?" or verb statements, such as, "Upgrade AM", or "Upgrading AM". We hope that using this language will also improve our findability. Also note that titles and the paragraphs of each topic type can include a tooltip, a collapse, or a link for users who want more.
 
 ### Concepts
 
 #### Structure
 Topic title: H1 or H2, in gerund, preposition, or present tense. 
-Example titles: Understanding Access Management, Access Management. 
+Examples: Understanding Access Management, and Access Management. 
 
 Topic paragraph: Two to three sentences about the topic. 
 
@@ -38,7 +40,7 @@ Access management is the process of controlling access to resources through auth
 
 #### Structure
 Task title: H1 or H2, in gerund, preposition, or present tense. 
-Example titles: Setting Up/Set Up Your Environment, About the Environment
+Examples: Setting Up/Set Up Your Environment, About the Environment
 
 Task paragraph (optional): Two to three sentences about the topic. Each sentence should complete a step or a task. Use shortcuts like greater than arrows for menu selections (Click Applications > New Application).   
 
@@ -47,16 +49,16 @@ Task steps: Step-by-step instructions for accomplishing a task or a goal.
 #### Example
 Setting Up Your Environment
 Add a tenant, application, and authentication service:
-1. Access your tenant URL: https://my company.forgerock.com and sign in. 
-1. Click New Application. The New Applications page displays.  
-1. Click an app type in the New Applications page. ForgeRock loads the recommended default settings for your app.
-1. Add an authentication service to your app by clicking User Hosted Pages or Use the ForgeRock SDK. 
+Access your tenant URL: https://my company.forgerock.com and sign in. 
+Click New Application. The New Applications page displays.  
+Click an app type in the New Applications page. ForgeRock loads the recommended default settings for your app.
+Add an authentication service to your app by clicking User Hosted Pages or Use the ForgeRock SDK. 
 
 ### References
 
 #### Structure
 Topic title: H1 or H2, the name of the subject. 
-Example titles: Supported Standards, authrate Utility
+Examples: Supported Standards, authrate utility
 
 Paragraph: One to three sentences about the topic. 
 
@@ -66,3 +68,4 @@ Used to measure bind throughput and response time of a directory service using u
 
 authrate -p 1389 -D 'uid=user.{},ou=people,dc=example,dc=com' \
 -w password -f -c 10 -g 'rand(0,2000)'
+
