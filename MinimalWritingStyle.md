@@ -73,12 +73,12 @@ Topic title: <title, h1, or h2>
 Paragraph: One to three sentences about the topic. 
 
 #### Example of a Reference
-authrate utility
+`authrate` utility
 
 Used to measure bind throughput and response time of a directory service using user-defined bind or search-then-bind operations. Example: 
 
-authrate -p 1389 -D 'uid=user.{},ou=people,dc=example,dc=com' \
--w password -f -c 10 -g 'rand(0,2000)'
+`authrate -p 1389 -D 'uid=user.{},ou=people,dc=example,dc=com' \
+-w password -f -c 10 -g 'rand(0,2000)'`
 
 ## Screenshots and Graphics
 How much is sufficient, especially in UI-driven docs? TBD.
