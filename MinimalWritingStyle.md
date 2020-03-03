@@ -8,8 +8,8 @@ Note that the following recommendations will be piloted with FR-hosted docs (FRa
 
 It will take some time to implement and refine our writing style during the pilot phase. Once we have a good idea of what that will look like, we can begin work on a minimal writing style for self-hosted docs (those currently not based in the cloud). 
 
-A minimal writing style for self-hosted docs might look different than that of the FR-hosted docs, given the differences in audiences (noobs vs. SMEs), the look and feel of the UI, the differences in content, as well as how it is consumed. 
-For example, what does specific and succinct writing look like for subjects like security considerations, for which we have many paragraphs or pages, and an audience that wants to deep-dive into the subject matter? We really don't know yet. These are some of the reasons we it will take time to create and implement this new style. 
+A minimal writing style for self-hosted docs might look different than that of the FR-hosted docs, given the differences in audiences (noobs vs. SMEs), the look and feel of the UI, the content itself, as well as how it is consumed. 
+For example, what does specific and succinct writing look like for subjects like security considerations, for which we have pages of information, and an audience that wants to deep-dive into the subject matter? We really don't know yet. These are some of the reasons it will take time to create and implement this new style. 
 
 ## Minimal Writing Structure: Concepts, Tasks, and References 
 
@@ -33,17 +33,19 @@ Topic paragraph: <para>
 Two to three sentences (or whatever amount of sentences are enough information for the user to understand) about the topic. 
 
 #### Example of a Concept
-Access Management <title, h1, or h2>
+Access Management 
 
-<para>Access management is the process of controlling access to resources through authentication and authorization. Authentication confirms a user's identity and credentials. Authorization determines whether a user has sufficient privileges to access a resource. 
+Access management is the process of controlling access to resources through authentication and authorization. Authentication confirms a user's identity and credentials. Authorization determines whether a user has sufficient privileges to access a resource. 
 
 ### Tasks
 Tasks show how to use a feature or an element of our products to accomplish a task or a goal. We usually do this with a numbered or bulleted list. Some examples of tasks are authenticating from a browser, or installing the CDM on a small cluster. 
 
-
 #### Structure
 Task title: H1 or H2, in gerund, preposition, or present tense. 
-Examples: Setting Up/Set Up Your Environment, About the Environment
+Gerund: Setting Up Your Environment 
+Preposition: About Access Management
+Present tense: Access Management
+Noun phrase: Access Management RequirementsExamples: Setting Up/Set Up Your Environment, About the Environment
 
 Task paragraph (optional): Two to three sentences about the topic. Each sentence should complete a step or a task. Use shortcuts like greater than arrows for menu selections (Click Applications > New Application).   
 
