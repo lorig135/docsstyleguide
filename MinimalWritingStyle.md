@@ -1,10 +1,10 @@
 # Overview
 
-Think of minimal writing like a recipe in a cookbook. Recipes include precisely enough information about how to make something (like a cake), as well as the steps you need to follow to do so. The goal is to make  complex information simple to understand and easy to follow, so our users can complete their work-related tasks quickly and effectively. 
+Think of minimal writing like a recipe in a cookbook. Recipes include precisely enough information about how to make something (like a cake), as well as the steps you need to follow to do so.  
 
-When writing minimally, you provide only/exactly as much information as the user needs to either understand a concept or a reference, or to accomplish a task. Note that the amount and complexity of information to include may vary, but it needs to be as specific and succinct as possible.  
+When writing minimally, you provide only/exactly as much information as the user needs to either understand a concept or a reference, or to accomplish a task. Note that the amount and complexity of information to include may vary, but it needs to be as specific and succinct as possible.  The goal is to make complex subject matter simple to understand and easy to follow, so our users can complete their work-related tasks quickly and effectively.
 
-Note that the following recommendations will be piloted with FR-hosted docs (FRaaS). Although  preliminary and likely to change, here are some early attempts by the FRaaS team at implementing minimal writing: https://developer.forgerock.com/docs/identity-cloud. 
+Note that the following recommendations will be piloted with FR-hosted docs (FRaaS). Although they are preliminary and likely to change, here are some early attempts by the FRaaS team at implementing minimal writing: https://developer.forgerock.com/docs/identity-cloud. 
 
 It will take some time to implement and refine our writing style during the pilot phase. Once we have a good idea of what that will look like, we can begin work on a minimal writing style for self-hosted docs (those currently not based in the cloud). 
 
@@ -70,13 +70,11 @@ authrate -p 1389 -D 'uid=user.{},ou=people,dc=example,dc=com' \
 -w password -f -c 10 -g 'rand(0,2000)'
 
 # Moving Toward a Minimal Writing Style
-Here are some steps you can take to move your writing toward a minimalist style. 
+Here are some steps you can take now to move your writing toward a minimalist style. 
 
-In titles or headings: 
-
+## In titles or headings
 - Use gerunds, prepositions, or present tense.
-- Avoid infinitives or use them minimally, for SEO reasons. 
-  - When users use search engines within ForgeRock or outside of it, their search terms are often worded as questions; such as, "How do I upgrade from AM 6.0 to 6.5?" or verb statements, such as, "Upgrade AM", or "Upgrading AM".
+- Avoid infinitives or use them minimally, for SEO reasons. When users use search engines within the ForgeRock website or outside of it, their search terms are often worded as verb statements, such as, "Upgrade to AM 7", or "Upgrading AM", or questions; such as, "How to upgrade from AM 6.5 to 7.0".
 
 
 In paragraphs: 
@@ -86,8 +84,6 @@ In sentences: Use active voice wherever possible. Active voice drives succinct w
 - Passive voice: The startup.sh script enables you to specify the following elements of a running instance.
 - Active voice: The startup.sh script lets you specify the following elements of a running instance.
 - Note that sometimes passive voice is unavoidable. 
-
-Use ger
 
 Notice that we do not use infinitives in headings. The reason for this is the language of search queries. W We hope that using this language will also improve our findability. Also note that titles and the paragraphs of each topic type can include a tooltip, a collapse, or a link for users who want more
  
