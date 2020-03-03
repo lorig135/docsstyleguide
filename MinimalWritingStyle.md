@@ -12,13 +12,11 @@ A minimal writing style for self-hosted docs might look different than that of t
 
 For example, what does specific and succinct writing look like for subjects like security considerations, for which we have many paragraphs or pages, and an audience that wants to deep-dive into the subject matter? These are some of the reasons we it will take time to create and implement this new style. 
 
-What follows is a proposed structure for minimal writing. 
-
 ## Minimal Writing Structure: Concepts, Tasks, and References 
 
 Minimal writing is topic-based, and includes three types of topics: concepts, tasks, and references. When we write about any of these topics, they should be written as independent chunks of information that can stand alone (meaning little or no context is needed), and can also (eventually) be repurposed, and/or connected with other, independent and reusable chunks of information.
 
-Following are guidelines for structuring a concept, task, and reference, and examples of what that might look like. Notice that we do not use infinitives in headings. The reason for this is the language of search queries. When users use search engines within ForgeRock or outside of it, their search terms are often worded as questions; such as, "How do I upgrade from AM 6.0 to 6.5?" or verb statements, such as, "Upgrade AM", or "Upgrading AM". We hope that using this language will also improve our findability. Also note that titles and the paragraphs of each topic type can include a tooltip, a collapse, or a link for users who want more.
+Following are guidelines for structuring a concept, task, and reference, and examples of what that might look like. Note that 
 
 
 ### Concepts
@@ -50,10 +48,11 @@ Task steps: Step-by-step instructions for accomplishing a task or a goal.
 Setting Up Your Environment
 
 Add a tenant, application, and authentication service:
-Access your tenant URL: https://my company.forgerock.com and sign in. 
-Click New Application. The New Applications page displays.  
-Click an app type in the New Applications page. ForgeRock loads the recommended default settings for your app.
-Add an authentication service to your app by clicking User Hosted Pages or Use the ForgeRock SDK. 
+1. Access your tenant URL: https://my company.forgerock.com and sign in. 
+1. Click New Application. The New Applications page displays.  
+1. Click an app type in the New Applications page. ForgeRock loads the recommended default settings for your app.
+1. Add an authentication service to your app by clicking User Hosted Pages or Use the ForgeRock SDK. 
+1. Click Save. Your environment is now set up. 
 
 ### References
 References are used to research and find detailed information, which is often formatted as tables or in an appendix. Some examples of references are timers, and their rates of execution times for queries and CRUD operations, or severe and fatal error messages for servers and their tools. 
@@ -72,19 +71,21 @@ Used to measure bind throughput and response time of a directory service using u
 authrate -p 1389 -D 'uid=user.{},ou=people,dc=example,dc=com' \
 -w password -f -c 10 -g 'rand(0,2000)'
 
-# Interim Steps
+# Moving Toward a Minimal Writing Style
 Here are some steps you can take to move your writing toward a minimalist style. 
 
+In headings: 
+Use 
 
-
-
-# General Minimal Writing Guidelines
-
-Use active voice wherever possible. Active voice drives succinct writing and is easier to translate. Examples:
+In sentences: Use active voice wherever possible. Active voice drives succinct writing and is easier to translate. Examples:
 - Passive voice: The startup.sh script enables you to specify the following elements of a running instance.
 - Active voice: The startup.sh script lets you specify the following elements of a running instance.
-- Note that sometimes passive voice is unavoidable.  
+- Note that sometimes passive voice is unavoidable. 
 
+Use ger
+
+Notice that we do not use infinitives in headings. The reason for this is the language of search queries. When users use search engines within ForgeRock or outside of it, their search terms are often worded as questions; such as, "How do I upgrade from AM 6.0 to 6.5?" or verb statements, such as, "Upgrade AM", or "Upgrading AM". We hope that using this language will also improve our findability. Also note that titles and the paragraphs of each topic type can include a tooltip, a collapse, or a link for users who want more
+ 
 Use fewer words, as they reduce cognitive load and the wall of text:
 - Ex.: After installation steps are complete, it is recommended that the installer ZIP and the created installation folders and files be removed from the server.
 - Rewrite: After installation is finished, remove the installer ZIP and the installation files from the server. 
