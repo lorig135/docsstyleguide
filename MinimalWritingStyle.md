@@ -1,6 +1,6 @@
 # Overview
 
-Think of minimal writing like a recipe in a cookbook. Recipes include precisely enough information about how to make something (like a cake), as well as the steps you need to follow to do so. 
+Think of minimal writing like a recipe in a cookbook. Recipes include precisely enough information about how to make something (like a cake), as well as the steps you need to follow to do so. The goal is to make  complex information simple to understand and easy to follow, so our users can complete their work-related tasks quickly and effectively. 
 
 When writing minimally, you provide only/exactly as much information as the user needs to either understand a concept or a reference, or to accomplish a task. Note that the amount and complexity of information to include may vary, but it needs to be as specific and succinct as possible.  
 
@@ -46,7 +46,7 @@ Task paragraph (optional): Two to three sentences about the topic. Each sentence
 
 Task steps: Step-by-step instructions for accomplishing a task or a goal.
 
-#### Example
+#### Example of a Task
 Setting Up Your Environment
 
 Add a tenant, application, and authentication service:
@@ -64,7 +64,7 @@ Examples: Supported Standards, authrate utility
 
 Paragraph: One to three sentences about the topic. 
 
-#### Example
+#### Example of a Reference
 authrate utility
 
 Used to measure bind throughput and response time of a directory service using user-defined bind or search-then-bind operations. Example: 
@@ -73,10 +73,12 @@ authrate -p 1389 -D 'uid=user.{},ou=people,dc=example,dc=com' \
 -w password -f -c 10 -g 'rand(0,2000)'
 
 # Interim Steps
+Here are some steps you can take to move your writing toward a minimalist style. 
+
+
 
 
 # General Minimal Writing Guidelines
-The goal is to make the complex information simple to understand and easy to follow, so our users can complete their work-related tasks effectively:
 
 Use active voice wherever possible. Active voice drives succinct writing and is easier to translate. Examples:
 - Passive voice: The startup.sh script enables you to specify the following elements of a running instance.
