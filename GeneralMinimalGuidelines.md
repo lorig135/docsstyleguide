@@ -11,6 +11,7 @@ The goal is to make the complex information simple to understand and easy to fol
     * Rewrite: After installation is finished, remove the installer ZIP and the installation files from the server. 
       
 * Break down complicated complicated sentences.
+
       * Example: The setup screen is displayed.
       * Rewrite: The setup screen displays.
 
