@@ -99,30 +99,31 @@ Use a gerund, preposition, present tense, or noun phrase:
 Avoid infinitives or use them minimally, for SEO reasons:
 - When users use search engines within the ForgeRock website or outside of it, their search terms are often worded as verb statements, such as, "Upgrade to AM 7", or "Upgrading AM", or questions; such as, "How to upgrade from AM 6.5 to 7.0".
 
-Avoid repetition of the title in second- and third-level headings. For example:  
+Avoid using second-and third-level headings, or second-level headings that repeat the title of the first-level heading. For example:  
+
 
 While, you could use a name in the second-level heading that is different than that of the first-level heading, using a first-level heading is preferable, as it can yield a cleaner layout and more white space, which is easier to read. 
 
 In paragraphs: 
 
 
-In sentences: Use active voice wherever possible. Active voice drives succinct writing and is easier to translate. Examples:
+## In sentences
+Use active voice wherever possible. Active voice is succinct and easier to translate. Examples:
 - Passive voice: The startup.sh script enables you to specify the following elements of a running instance.
 - Active voice: The startup.sh script lets you specify the following elements of a running instance.
-- Note that sometimes passive voice is unavoidable. 
+  - Note that sometimes passive voice is unavoidable. 
  
-Use fewer words, as they reduce cognitive load and the wall of text:
+Use fewer and/or unnecessary words, as they reduce cognitive load and the wall of text
+
+Fewer words
 - Ex.: After installation steps are complete, it is recommended that the installer ZIP and the created installation folders and files be removed from the server.
 - Rewrite: After installation is finished, remove the installer ZIP and the installation files from the server. 
-      
-Break down complicated complicated sentences. 
-- Example: The setup screen is displayed.
-- Rewrite: The setup screen displays.
+
+Unnecessary words
+- Ex.: If calling the default browser for front-channel communications is not acceptable, enabling persistent cookies for session management could be an option in the authorization server configuration. 
+- Rewrite: If calling the default browser for front-channel communications is not an option, try enabling persistent cookies for session management.
+ 
+
+When writing steps, make sure each step helps the user complete a task. (user-focused content). See https://www.stilo.com/2017/04/30/converting-to-dita-mastering-the-task/. 
 
 Check each preposition. Can the sentence be written without them? See https://www.dailywritingtips.com/5-ways-to-reduce-use-of-prepositions/ for tips.
-
-Eliminate unnecessary words:
-- Example: If calling the default browser for front-channel communications is not acceptable, enabling persistent cookies for session management could be an option in the authorization server configuration. 
-- Rewrite 1: If calling the default browser for front-channel communications is not an option, try enabling persistent cookies for session management.
-
-When writing steps, ensure each sentence helps the user complete a task. (user-focused content). See https://www.stilo.com/2017/04/30/converting-to-dita-mastering-the-task/. 
