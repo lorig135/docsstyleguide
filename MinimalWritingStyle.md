@@ -66,8 +66,9 @@ Add a tenant, application, and authentication service:
 References are used to research and find detailed information, which is often formatted as tables or in an appendix. Some examples of references are timers, and their rates of execution times for queries and CRUD operations, or severe and fatal error messages for servers and their tools. 
 
 #### Structure
-Topic title: <title, h1, or h2>, the name of the subject
-Examples: Supported Standards, authrate utility
+Topic title: <title, h1, or h2>
+- Use the name of the subject:
+    - Examples: Supported Standards, authrate utility
 
 Paragraph: One to three sentences about the topic. 
 
@@ -95,7 +96,8 @@ Use a gerund, preposition, present tense, or noun phrase:
   - Present tense: Set Up Access Management
   - Noun phrase: Access Management Setup 
 
-Avoid infinitives or use them minimally, for SEO reasons. When users use search engines within the ForgeRock website or outside of it, their search terms are often worded as verb statements, such as, "Upgrade to AM 7", or "Upgrading AM", or questions; such as, "How to upgrade from AM 6.5 to 7.0".
+Avoid infinitives or use them minimally, for SEO reasons:
+- When users use search engines within the ForgeRock website or outside of it, their search terms are often worded as verb statements, such as, "Upgrade to AM 7", or "Upgrading AM", or questions; such as, "How to upgrade from AM 6.5 to 7.0".
 
 Avoid repetition of the title in second- and third-level headings. For example: 
 
@@ -103,10 +105,11 @@ First-level heading:
 Upgrading to Version 7.0
 In this section, you'll learn how to upgrade to version 7.0.
 
-Second-level heading: To Upgrade to Version 7.0
+Second-level heading: 
+To Upgrade to Version 7.0
 Follow these steps to upgrade to version 7.0: 
 
-Rewrite
+Rewrite:
 First-level heading: 
 Upgrading to Version 7.0
 In this section, you'll learn how to upgrade to version 7.0. Follow these steps: 
