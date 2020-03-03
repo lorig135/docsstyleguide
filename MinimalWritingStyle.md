@@ -21,12 +21,12 @@ Following are guidelines for structuring a concept, task, and reference, and exa
 Concepts explain what something is, what it means, or how it is used. We currently use them in our product docs at the beginning of chapters, where we introduce, define, and elaborate on an element of our products, such as a feature. Some examples of concepts are what a throttling filter is and the different ways to configure it, or how Identity Governance and Administration manages and reduces user risk. 
 
 #### Minimal Writing Structure
-Topic title: H1 or H2, in gerund, preposition, or present tense. For example, Understanding Access Management, Access Management. 
+Topic title: Title, H1, or H2, in gerund, preposition, or present tense. For example, Understanding Access Management, Access Management. 
 
-Topic paragraph: Two to three sentences (or whatever amount is enough information for the user to understand) about the topic. 
+Topic paragraph: Two to three sentences (or whatever amount of sentences are enough information for the user to understand) about the topic. 
 
 #### Example of a Concept
-Access Management
+Access Management <title, h1, or h2>
 
 Access management is the process of controlling access to resources through authentication and authorization. Authentication confirms a user's identity and credentials. Authorization determines whether a user has sufficient privileges to access a resource. Learn more here.
 
