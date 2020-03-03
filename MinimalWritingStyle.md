@@ -23,11 +23,11 @@ Concepts explain what something is, what it means, or how it is used. We current
 #### Minimal Writing Structure
 
 Topic title: <title, h1, or h2>
-Use a gerund, preposition, present tense, or noun phrase. 
-Gerund: Understanding Access Management
-Preposition: About Access Management
-Present tense: Access Management
-Noun phrase: Access Management Requirements 
+- Use a gerund, preposition, present tense, or noun phrase: 
+  - Gerund: Setting Up Access Management
+  - Preposition: About Access Management
+  - Present tense: Set Up Access Management
+  - Noun phrase: Access Management Requirements 
 
 Topic paragraph: <para>
 Two to three sentences (or whatever amount of sentences are enough information for the user to understand) about the topic. 
