@@ -9,7 +9,7 @@ Note that the following recommendations will be piloted with FR-hosted docs (FRa
 It will take some time to implement and refine our writing style during the pilot phase. Once we have a good idea of what that will look like, we can begin work on a minimal writing style for self-hosted docs (those currently not based in the cloud). 
 
 A minimal writing style for self-hosted docs might look different than that of the FR-hosted docs, given the differences in audiences (noobs vs. SMEs), the look and feel of the UI, the content itself, as well as how it is consumed. 
-For example, what does specific and succinct writing look like for subjects like security considerations, for which we have pages of information, and an audience that wants to deep-dive into the subject matter? We really don't know yet. These are some of the reasons it will take time to create and implement this new style. 
+For example, what does specific and succinct writing look like for subjects like security considerations, for which we have pages of information, and an audience that is interested in details and wants to deep-dive into the subject matter? We really don't know yet. These are some of the reasons it will take time to create and implement this new style. 
 
 ## Minimal Writing Structure: Concepts, Tasks, and References 
 
@@ -27,7 +27,7 @@ Topic title: <title, h1, or h2>
   - Gerund: Setting Up Access Management
   - Preposition: About Access Management
   - Present tense: Set Up Access Management
-  - Noun phrase: Access Management Requirements 
+  - Noun phrase: Access Management Setup 
 
 Topic paragraph: <para>
 Two to three sentences (or whatever amount of sentences are enough information for the user to understand) about the topic. 
