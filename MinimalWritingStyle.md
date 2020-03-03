@@ -41,8 +41,8 @@ Access management is the process of controlling access to resources through auth
 Tasks show how to use a feature or an element of our products to accomplish a task or a goal. We usually do this with a numbered or bulleted list. Some examples of tasks are authenticating from a browser, or installing the CDM on a small cluster. 
 
 #### Structure
-Task title: H1 or H2, in gerund, preposition, or present tense.
-Use a gerund, preposition, present tense, or noun phrase: 
+Task title: <title, h1, or h2>
+- Use a gerund, preposition, present tense, or noun phrase: 
   - Gerund: Setting Up Access Management
   - Preposition: About Access Management
   - Present tense: Set Up Access Management
@@ -66,7 +66,7 @@ Add a tenant, application, and authentication service:
 References are used to research and find detailed information, which is often formatted as tables or in an appendix. Some examples of references are timers, and their rates of execution times for queries and CRUD operations, or severe and fatal error messages for servers and their tools. 
 
 #### Structure
-Topic title: H1 or H2, the name of the subject. 
+Topic title: <title, h1, or h2>, the name of the subject
 Examples: Supported Standards, authrate utility
 
 Paragraph: One to three sentences about the topic. 
