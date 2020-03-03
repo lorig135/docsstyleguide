@@ -10,7 +10,7 @@ Note that the following recommendations will be piloted with FR-hosted docs (FRa
 
 A minimal writing style for self-hosted docs might look different than that of the FR-hosted docs, given the differences in audiences (noobs vs. SMEs), the look and feel of the UI, the differences in content, as well as how it is consumed. 
 
-For example, what does specific and succinct writing look like for subjects like security considerations and other subjects for which we have many paragraphs or pages, and an audience that wants to deep-dive into the subject matter? These are some of the reasons we will implement this new style over time and in increments. 
+For example, what does specific and succinct writing look like for subjects like security considerations, for which we have many paragraphs or pages, and an audience that wants to deep-dive into the subject matter? These are some of the reasons we it will take time to create and implement this new style. 
 
 What follows is a proposed structure for minimal writing. 
 
