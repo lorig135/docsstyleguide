@@ -48,7 +48,7 @@ Task steps: Step-by-step instructions for accomplishing a task or a goal.
 Setting Up Your Environment
 
 Add a tenant, application, and authentication service:
-1. Access your tenant URL: https://my company.forgerock.com and sign in. 
+1. Access your tenant URL: https://mycompany.forgerock.com and sign in. 
 1. Click New Application. The New Applications page displays.  
 1. Click an app type in the New Applications page. ForgeRock loads the recommended default settings for your app.
 1. Add an authentication service to your app by clicking User Hosted Pages or Use the ForgeRock SDK. 
