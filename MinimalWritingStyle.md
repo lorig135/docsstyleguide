@@ -22,7 +22,8 @@ Concepts explain what something is, what it means, or how it is used. We current
 
 #### Minimal Writing Structure
 
-Topic title: Title, H1, or H2, in gerund, preposition, or present tense. For example, Understanding Access Management, Access Management. 
+Topic title: Title, H1, or H2
+Gerund, preposition, present tense, or a noun phrase. For example, Understanding Access Management, Access Management Requirements. 
 
 Topic paragraph: Two to three sentences (or whatever amount of sentences are enough information for the user to understand) about the topic. 
 
