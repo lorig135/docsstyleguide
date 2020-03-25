@@ -50,7 +50,7 @@ Use *that* or *who* with *the user* in a sentence. Both are correct. Avoid these
 When in doubt, use *that*.
 
 ## Verbs
-Use a strong or precise verb instead of a phrasal verb. Ex.: Use *print* instead of *print out*.
+Use phrasal verbs (print out, try it out) as well as precise verb, or a phrasal verb. Phrasal verbs are colloquial, and using them may improve our SEO.
 
 ## What vs. which
 Use *what* when you are unsure of the quantity, and *which* when you are sure of the quantity. Ex. Which version should I choose?
